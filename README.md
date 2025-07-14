@@ -1,4 +1,5 @@
 # CNN
+:CNN은 이미지, 영상, 음성 등과 같은 2차원 또는 3차원 구조의 데이터를 처리하기 위해 고안된 딥러닝 신경망 구조입니다.
 
 # 🧠 CNN 용어 정리 (Convolutional Neural Network Glossary)
 
