@@ -113,3 +113,17 @@ https://claude.ai/public/artifacts/2cebc728-66b5-414a-9e97-991f60a2a7e1
 <img width="1692" height="677" alt="샤프닝 필터" src="https://github.com/user-attachments/assets/3fe429d5-6122-40e7-9b1f-193a33e37bcc" />
 
 
+## CNN 파이프라인 시각화
+1단게 : 이미지의 RGB 값 추출
+<img width="1531" height="760" alt="화면 캡처 2025-07-14 113539" src="https://github.com/user-attachments/assets/7bc18565-e7bc-4cdb-a349-806c1d2210f9" />
+
+2단계 : 패딩(padding) 적용
+<img width="1427" height="757" alt="fd" src="https://github.com/user-attachments/assets/c6e48408-6a31-44fc-a073-6229ad0504ab" />
+
+3단계 : 컨벌류션 연산(수직 , 수평 , 블러 샤프닝)
+
+4단계 : ReLU 활성화 함수
+        <br> 음수값-->0 , 양수값 --> 그대로
+<img width="1462" height="802" alt="화면 캡처 2025-07-14 114147" src="https://github.com/user-attachments/assets/93c2870d-fc66-4219-8bbf-d7a05e8c9841" />
+        
+
