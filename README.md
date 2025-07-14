@@ -102,3 +102,11 @@ https://claude.ai/public/artifacts/2cebc728-66b5-414a-9e97-991f60a2a7e1
 ### 수평 엣지 필터
 행 순서대로 -1 , 0, 1값을 가진다.
 <img width="1695" height="685" alt="수평에지 필터" src="https://github.com/user-attachments/assets/2e16fd8c-324a-411c-bbef-de518ad23c82" />
+
+### 블러 필터
+이미지를 부드럽게 해주는 필터이다.
+<img width="1688" height="687" alt="블러필터" src="https://github.com/user-attachments/assets/ec7338fb-5003-4cc0-ab5c-80c7642161be" />
+
+### 샤프닝 필터 
+이미지를 선명하게 해주는 필터
+<img width="1692" height="677" alt="샤프닝 필터" src="https://github.com/user-attachments/assets/3fe429d5-6122-40e7-9b1f-193a33e37bcc" />
