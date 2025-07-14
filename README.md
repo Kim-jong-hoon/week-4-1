@@ -91,9 +91,3 @@
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - Goodfellow et al., Deep Learning (2016)
 
----
-
-## 📬 기여
-
-오탈자나 추가하고 싶은 용어가 있다면 PR 또는 Issue를 통해 자유롭게 기여해주세요!
-
