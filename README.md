@@ -126,4 +126,6 @@ https://claude.ai/public/artifacts/2cebc728-66b5-414a-9e97-991f60a2a7e1
         <br> 음수값-->0 , 양수값 --> 그대로
 <img width="1462" height="802" alt="화면 캡처 2025-07-14 114147" src="https://github.com/user-attachments/assets/93c2870d-fc66-4219-8bbf-d7a05e8c9841" />
         
+5단게 : 특정맵 시각화
+<img width="1666" height="768" alt="화면 캡처 2025-07-14 114305" src="https://github.com/user-attachments/assets/dca9c017-3747-465d-ab8a-513e95f097c9" />
 
