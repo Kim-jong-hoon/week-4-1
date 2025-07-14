@@ -91,3 +91,9 @@
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - Goodfellow et al., Deep Learning (2016)
 
+## CNN 컨벌루션 에니메이션 
+https://claude.ai/public/artifacts/2cebc728-66b5-414a-9e97-991f60a2a7e1
+
+## 수직 엣지 필터
+<img width="1462" height="498" alt="수직선 에지 필터" src="https://github.com/user-attachments/assets/b7efb386-489e-4389-9967-0c8024c45110" />
+
